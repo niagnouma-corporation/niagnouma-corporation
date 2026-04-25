@@ -1,5 +1,3 @@
-# Niagnouma
-
 ![header](https://capsule-render.vercel.app/api?type=wave&height=300&color=gradiant&text=Niagnouma👋&fontColor=fff&textBg=false&animation=fadeIn&rotate=360&section=header&reversal=true)
 
 ### Software Engineer • Systems & Performance

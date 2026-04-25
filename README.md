@@ -39,5 +39,5 @@ Building fast systems • Exploring low-level architectures • Scaling with pur
 
 ## Contact
 
-📧 niagnouma001@gmail.com  
-🔗 github.com/niagnouma
+📧 [niagnouma001@gmail.com](mailto:niagnouma001@gmail.com)  
+🔗 [github.com/niagnouma](https://github.com/niagnouma)

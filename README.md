@@ -1,40 +1,43 @@
+# Niagnouma
+
 ![header](https://capsule-render.vercel.app/api?type=wave&height=300&color=gradiant&text=Niagnouma👋&fontColor=fff&textBg=false&animation=fadeIn&rotate=360&section=header&reversal=true)
 
-### ⚙️ Independent Software Engineer • 🚀 Systems & Performance
+### Software Engineer • Systems & Performance
 
-> ⚡ Building fast systems • 🧠 Low-level exploration • 📈 Scalable architectures
+Building fast systems • Exploring low-level architectures • Scaling with purpose
 
----
-
-## 🚀 Focus
-- 🔎 Search & indexing  
-- ⚙️ C / low-level  
-- 🧠 OS & memory  
+🔮 *Diving into Machine Learning & AI*
 
 ---
 
-## 🧰 Stack
+## Focus
 
-### 🌐 Web
-![Next.js](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-### ⚙️ Systems
-![C](https://img.shields.io/badge/c-00599C?style=flat-square&logo=c&logoColor=white)
-
-### 🏗 Infra
-![Docker](https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-F05033?style=flat-square&logo=git&logoColor=white)
+- Search & indexing
+- Systems programming (C, memory, OS)
+- Scalable architectures
+- **Exploring:** Machine Learning fundamentals & AI systems
 
 ---
 
-## 📊 Stats
+## Stack
+
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
+
+---
+
+## Stats
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=niagnouma&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
-## 🤝 Contact
-📫 niagnouma001@gmail.com  
-🐙 https://github.com/niagnouma
+## Contact
+
+📧 [niagnouma001@gmail.com](mailto:niagnouma001@gmail.com)  
+🔗 [github.com/niagnouma](https://github.com/niagnouma)
